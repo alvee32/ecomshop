@@ -8,10 +8,10 @@
 						<a href="#">Shop</a>
 						<div class="mobnav-subarrow"><i class="fa fa-plus"></i></div>
 						<ul>
-							<li><a href="#">Category1</a></li>
-							<li><a href="#">Category1</a></li>
-							<li><a href="#">Category1</a></li>
-							<li><a href="#">Category1</a></li>
+							<li><a href="#">Gadgets</a></li>
+							<li><a href="#">Womens dress</a></li>
+							<li><a href="#">Mans Dress</a></li>
+							<li><a href="#">Accesories</a></li>
 						</ul>
 					</li>
 					<li>

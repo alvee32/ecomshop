@@ -31,29 +31,6 @@
 					<div class="col-md-12">
 						<div class="row">
 							<div id="shop-mason" class="shop-mason-4col">
-								<div class="sm-item isotope-item">
-									<div class="product">
-										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
-											<div class="product-overlay">
-												<span>
-												<a href="./shop-single-full.html" class="fa fa-link"></a>
-												<a href="./shop-single-full.html" class="fa fa-shopping-cart"></a>
-												</span>					
-											</div>
-
-										</div>
-										<div class="rating">
-											<span class="fa fa-star act"></span>
-											<span class="fa fa-star act"></span>
-											<span class="fa fa-star act"></span>
-											<span class="fa fa-star act"></span>
-											<span class="fa fa-star act"></span>
-										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
-									</div>
-								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
@@ -74,15 +51,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Iphone 10</a></h2>
+										<div class="product-price">$900.00<span>$1200.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/2.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -98,15 +75,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Iphone 11 Pro</a></h2>
+										<div class="product-price">$1000.00<span>$1300.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/3.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -122,15 +99,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Iphone 8</a></h2>
+										<div class="product-price">$699.00<span>$800.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/4.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -146,15 +123,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Iphone XR</a></h2>
+										<div class="product-price">$749.00<span>$799.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/5.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -170,15 +147,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Macbook Pro</a></h2>
+										<div class="product-price">$1100.00<span>$1299.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/6.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -194,15 +171,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Macbook Mini</a></h2>
+										<div class="product-price">$779.00<span>$799.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/7.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -218,15 +195,15 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Macbook Air</a></h2>
+										<div class="product-price">$800.00<span>$900.00</span></div>
 									</div>
 								</div>
 
 								<div class="sm-item isotope-item">
 									<div class="product">
 										<div class="product-thumb">
-											<img src="images/shop/1.jpg" class="img-responsive" alt="">
+											<img src="images/shop/8.jpg" class="img-responsive" alt="">
 											<div class="product-overlay">
 												<span>
 												<a href="./shop-single-full.html" class="fa fa-link"></a>
@@ -242,21 +219,59 @@
 											<span class="fa fa-star act"></span>
 											<span class="fa fa-star act"></span>
 										</div>
-										<h2 class="product-title"><a href="#">Shave Knives</a></h2>
-										<div class="product-price">$79.00<span>$200.00</span></div>
+										<h2 class="product-title"><a href="#">Mac Air 2019</a></h2>
+										<div class="product-price">$950.00<span>$999.00</span></div>
 									</div>
 								</div>
 
+								<div class="sm-item isotope-item">
+									<div class="product">
+										<div class="product-thumb">
+											<img src="images/shop/11.jpg" class="img-responsive" alt="">
+											<div class="product-overlay">
+												<span>
+												<a href="./shop-single-full.html" class="fa fa-link"></a>
+												<a href="./shop-single-full.html" class="fa fa-shopping-cart"></a>
+												</span>					
+											</div>
 
+										</div>
+										<div class="rating">
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+										</div>
+										<h2 class="product-title"><a href="#">DSLR CAMERA</a></h2>
+										<div class="product-price">$250.00<span>$300.00</span></div>
+									</div>
+								</div>
 
+								<div class="sm-item isotope-item">
+									<div class="product">
+										<div class="product-thumb">
+											<img src="images/shop/12.jpg" class="img-responsive" alt="">
+											<div class="product-overlay">
+												<span>
+												<a href="./shop-single-full.html" class="fa fa-link"></a>
+												<a href="./shop-single-full.html" class="fa fa-shopping-cart"></a>
+												</span>					
+											</div>
 
+										</div>
+										<div class="rating">
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+											<span class="fa fa-star act"></span>
+										</div>
+										<h2 class="product-title"><a href="#">CAMERA LENSE</a></h2>
+										<div class="product-price">$1580.00<span>$1670.00</span></div>
+									</div>
+								</div>
 
-
-
-
-
-
-								
 							</div>
 						</div>
 						<div class="clearfix"></div>
